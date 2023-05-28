@@ -6,6 +6,11 @@
     box-sizing: border-box;
 }
 
+.friendLinks {
+    text-decoration: none;
+    color: white;
+}
+
 .page {
     color: white;
     background-color: #0f1024;
